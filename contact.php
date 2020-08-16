@@ -20,18 +20,8 @@ session_start();
 		<!--Header Section Start Here
 		==================================-->
 		<header>
-		<?php include_once('public/header.php') ?>
-		<div class="main_nav stricky-header__top navbar-toggleable-md">
-
-			<nav class="navbar navbar-default navbar-sticky bootsnav">
-				<div class="container">
-					<!-- Start Header Navigation -->
-					
-			<?php include_once('public/navbar.php')?>
-					<!--navbar-collapse -->
-				</div>
-			</nav>
-		</div>
+		<?php include_once('public/header.php')?>
+		
 	</header><!--Section End Here-->
 
 		<!-- END HEADER -->
@@ -81,12 +71,15 @@ session_start();
 										<div class="icon ion-ios-location"></div>
 										<div class="content">
 											<p>
-												456, 1st Main Road, 2nd Phase, 7th Cross,
-Gokula Extension,Yeshwanthpur
+												Sri Lakshmi Balaji Pavan Medical<br>
+
+Shop No :- 19-12-665,
+Bairagi Patteda,
+
 
 											</p>
 											<p>
-												Bengaluru, Karnataka 560022, India
+												Tirupati - 517501, India
 											</p>
 										</div>
 									</li>
@@ -96,7 +89,7 @@ Gokula Extension,Yeshwanthpur
 										<div class="content">
 											<p>
 								
-										+91 9844389749<br>
+										 +91 9441520209<br>
 
 										
 
@@ -112,7 +105,7 @@ Gokula Extension,Yeshwanthpur
 										<div class="icon ion-ios-email"></div>
 										<div class="content">
 											<p>
-												ananduday1984@gmail.com
+												srilbpmedical@gmail.com
 											</p>
 											<p>
 												
@@ -120,26 +113,7 @@ Gokula Extension,Yeshwanthpur
 										</div>
 									</li>
 								</ul>
-								<!-----<ul class="event-social">
-									<li>
-										<a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-									</li>
-									<li>
-										<a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-									</li>
-									<li>
-										<a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-									</li>
-									<li>
-										<a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a>
-									</li>
-									<li>
-										<a href="#"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a>
-									</li>
-									<li>
-										<a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-									</li>
-								</ul>------>
+							
 							</div>
 						</div>
 
@@ -149,11 +123,19 @@ Gokula Extension,Yeshwanthpur
 
 			</section>
 			<!-- Map -->
-			<section class="map-box">
-				<div class="map">
-					<div id="map"></div>
+			<div class="row">
+  <div class="col"></div>
+  <div class="col-12"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3877.6186430433277!2d79.42007461482903!3d13.620087990432843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTPCsDM3JzEyLjMiTiA3OcKwMjUnMjAuMiJF!5e0!3m2!1sen!2sin!4v1597577418226!5m2!1sen!2sin" width="1400" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></div>
+  <div class="col"></div>
+</div>
+<!-- 			<section class="">
+				<div class="row">
+					<div class="mt-sm-30">
+					
+						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3877.6186430433277!2d79.42007461482903!3d13.620087990432843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTPCsDM3JzEyLjMiTiA3OcKwMjUnMjAuMiJF!5e0!3m2!1sen!2sin!4v1597577418226!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 				</div>
-			</section>
+				</div>
+			</section> -->
 			<!-- Contact Section -->
 			<!--End Contact-->
 		 

@@ -3,12 +3,12 @@ include('public/head.php');
 ?>
 <div class="contact-form " id="contact" >
 <!-- IF MAIL SENT SUCCESSFULLY -->
-	<div id="success">
+	<!-- <div id="success">
 		<div role="alert" class="alert alert-success">
 			<strong>Thanks</strong> for using our template. Your message has been sent.
 		</div>
 	</div>
-
+ -->
 <!-- END IF MAIL SENT SUCCESSFULLY -->
 <div class="row">
 	

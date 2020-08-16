@@ -4,7 +4,7 @@ session_start();
 <meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Refrigerator and Washing machine service in Bangalore</title>
+		<title>Sri Lakshmi Balaji Pavan Medical & Fancy Store</title>
 		<!--<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">----->
 		<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,700" rel="stylesheet">
 		<link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">

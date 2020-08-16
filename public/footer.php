@@ -1,10 +1,14 @@
 <footer class="footer pt-50">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-6 col-lg-3 footer_logo">
-						<!--<a href="index-2.html"><img src="assets/images/footer_logo.jpg" alt=""></a>-->
-						<p>
-							Refrigerator & Washing machine service at your door in Bangalore. 
+					<div class="col-md-6 col-lg-3 footer_logo" style="color: #ffff;">
+						<h4>Address</h4>
+						<p style="color: #ffff;">
+							Sri Lakshmi Balaji Pavan Medical<br>
+
+Shop No:-19-12-665,<br>
+Bairagi Patteda,<br>
+Tirupati - 517501
 						</p>
 						<ul>
 							<li>
@@ -12,35 +16,39 @@
 									<i class="fab fa-facebook-f"></i>
 								</a>
 							</li>
-							<!---<li>
-								<a href="#"><i class="fa fa-dribbble" aria-hidden="true"></i></a>
+														<li>
+								<a href="#">
+									<i class="fab fa-youtube"></i>
+								</a>
 							</li>
-							<li>
-								<a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+													<li>
+								<a href="#">
+									<i class="fas fa-mail-bulk"></i>
+								</a>
 							</li>
-							<li>
-								<a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+								<li>
+								<a href="#">
+									<i class="fab fa-whatsapp"></i>
+								</a>
 							</li>
-							<li>
-								<a href="#"><i class="fa fa-vimeo" aria-hidden="true"></i></a>
-							</li>--->
+							
 						</ul>
 					</div>
 
 					<div class="col-md-6 col-lg-2 mt-xs-30 link_footer">
-						<h4>Information</h4>
+						<h4></h4>
 						<ul>
 							<li>
-								<a href="#">Home</a>
+								<a href="#"></a>
 							</li>
 							<li>
-								<a href="#aboutus">About us</a>
+								<a href="#aboutus"> </a>
 							</li>
 							<li>
-								<a href="#Services">Service</a>
+								<a href="#Services"></a>
 							</li>
 							<li>
-								<a href="book.php">Book Now</a>
+								<a href="book.php"> </a>
 							</li>
 							
 							
@@ -48,28 +56,14 @@
 					</div>
 
 					<div class="col-md-6 col-lg-3 mt-sm-30 mt-xs-30 footer-latest-news">
-						<h4>Latest News</h4>
-						<div class="single-news">
-							<h5><a href="#">
-								Coming Soon
-
-							</a></h5>
-							<span></span>
-						</div>
-						<div class="single-news">
-							<h5><a href="#"></a></h5>
-							<span></span>
-						</div>
+						
 					</div>
 
-					<div class="col-md-6 col-lg-4 mt-sm-30 mt-xs-30 footer-subscribe">
+					<div class="col-md-6 col-lg-4 mt-sm-30 mt-xs-30 footer-subscribe" style="color: #ffff">
 						<h4>Contact Us</h4>
-						<p>
-							Mr. Santosh Kumar<br>
-							9844389749
-						</p>
-					
-
+						+91 9686693239<br>
+							srilbpmedical@gmail.com
+	
 					</div>
 
 				</div>

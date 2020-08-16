@@ -15,43 +15,15 @@
   
 	</head>
 	<body>
-	    
-	    <a class="mbscreenphone phonelink" href="tel:+91 9686693239">
-	        
-	         <img class="phoneicon" src="https://freeiconshop.com/wp-content/uploads/edd/phone-flat.png">
-	        
-	        
-	    </a>
-	        
-	    
-		<!--loader-->
-		<div id="preloader">
-			<div class="sk-circle">
-				<div class="sk-circle1 sk-child"></div>
-				<div class="sk-circle2 sk-child"></div>
-				<div class="sk-circle3 sk-child"></div>
-				<div class="sk-circle4 sk-child"></div>
-				<div class="sk-circle5 sk-child"></div>
-				<div class="sk-circle6 sk-child"></div>
-				<div class="sk-circle7 sk-child"></div>
-				<div class="sk-circle8 sk-child"></div>
-				<div class="sk-circle9 sk-child"></div>
-				<div class="sk-circle10 sk-child"></div>
-				<div class="sk-circle11 sk-child"></div>
-				<div class="sk-circle12 sk-child"></div>
-			</div>
-		</div>
-
-		<!--loader-->
+	
 
 		<!-- HEADER -->
 			<?php include_once('public/header.php')?>
-		
+ 		
 		<!-- END HEADER -->
 
 <!---Boostrap Banner ---->
-<?php //include_once('image-slider.php')?>
-<!---Boostrap Banner Ends---->
+
 		<a href="tel: +91 9686693239">
 		<div style="width:98%;margin-left:1%;margin-top:5%; height: 85% ">
 		    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
@@ -78,6 +50,7 @@
 		    	
 		</div>
 		</a>
+		<!---Boostrap Banner Ends---->
 		
 		<!-- About -->
 		<section class="padding ptb-xs-40" id="aboutus">
@@ -540,7 +513,7 @@ within 90 hours at your doorstep. Some service providers instead of repairing th
 						<div class="item-box">
 							<a> <img alt="1" src="assets/images/project/project_1.jpg" class="item-container"> </a>
 							<div class="link-zoom">
-								<!---<a href="project-details.html" class="project_links same_style"> <i class="fa fa-link"> </i> </a>--->
+								<!---<a href="#!" class="project_links same_style"> <i class="fa fa-link"> </i> </a>--->
 								<a href="assets/images/project/project_1.jpg" class="fancylight popup-btn same_style" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a>
 								<div class="gallery-heading">
 									<h4><a href="#">Single Door Services</a></h4>
@@ -555,7 +528,7 @@ within 90 hours at your doorstep. Some service providers instead of repairing th
 						<div class="item-box">
 							<a> <img alt="1" src="assets/images/project/project_2.jpg" class="item-container"> </a>
 							<div class="link-zoom">
-								<!---<a href="project-details.html" class="project_links same_style"> <i class="fa fa-link"> </i> </a>--->
+								<!---<a href="#!" class="project_links same_style"> <i class="fa fa-link"> </i> </a>--->
 								<a href="assets/images/project/project_2.jpg" class="fancylight popup-btn same_style" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a>
 								<div class="gallery-heading">
 									<h4><a href="#">Double Door Services</a></h4>
@@ -569,7 +542,7 @@ within 90 hours at your doorstep. Some service providers instead of repairing th
 						<div class="item-box">
 							<a> <img alt="1" src="assets/images/project/project_3.jpg" class="item-container"> </a>
 							<div class="link-zoom">
-								<!---<a href="project-details.html" class="project_links same_style"> <i class="fa fa-link"> </i> </a>--->
+								<!---<a href="#!" class="project_links same_style"> <i class="fa fa-link"> </i> </a>--->
 								<a href="assets/images/project/project_3.jpg" class="fancylight popup-btn same_style" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a>
 								<div class="gallery-heading">
 									<h4><a href="#">Side By Side Door Services</a></h4>
@@ -583,7 +556,7 @@ within 90 hours at your doorstep. Some service providers instead of repairing th
 						<div class="item-box">
 							<a> <img alt="1" src="assets/images/project/project_4.jpg" class="item-container"> </a>
 							<div class="link-zoom">
-								<!---<a href="project-details.html" class="project_links same_style"> <i class="fa fa-link"> </i> </a>--->
+								<!---<a href="#!" class="project_links same_style"> <i class="fa fa-link"> </i> </a>--->
 								<a href="assets/images/project/project_4.jpg" class="fancylight popup-btn same_style" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a>
 								<div class="gallery-heading">
 									<h4><a href="#">Front Load Services</a></h4>
@@ -597,7 +570,7 @@ within 90 hours at your doorstep. Some service providers instead of repairing th
 						<div class="item-box">
 							<a> <img alt="1" src="assets/images/project/project_5.jpg" class="item-container"> </a>
 							<div class="link-zoom">
-								<!---<a href="project-details.html" class="project_links same_style"> <i class="fa fa-link"> </i> </a>--->
+								<!---<a href="#!" class="project_links same_style"> <i class="fa fa-link"> </i> </a>--->
 								<a href="assets/images/project/project_5.jpg" class="fancylight popup-btn same_style" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a>
 								<div class="gallery-heading">
 									<h4><a href="#">Top Load Services</a></h4>
@@ -611,7 +584,7 @@ within 90 hours at your doorstep. Some service providers instead of repairing th
 						<div class="item-box">
 							<a> <img alt="1" src="assets/images/project/project_6.jpg" class="item-container"> </a>
 							<div class="link-zoom">
-								<!---<a href="project-details.html" class="project_links same_style"> <i class="fa fa-link"> </i> </a>--->
+								<!---<a href="#!" class="project_links same_style"> <i class="fa fa-link"> </i> </a>--->
 								<a href="assets/images/project/project_6.jpg" class="fancylight popup-btn same_style" data-fancybox-group="light" > <i class="fa fa-search-plus"></i> </a>
 								<div class="gallery-heading">
 									<h4><a href="#">Installation/Uninstallation Services</a></h4>
@@ -627,140 +600,6 @@ within 90 hours at your doorstep. Some service providers instead of repairing th
 		</section>
 		<!-- End Work Section -->
 
-		<!-- testimonial_Section -->
-<!--		
-		<section class="padding ptb-xs-40 bg_Testimonial">
-			<div class="container">
-				<div class="row text-center light-color mb-40 mb-xs-30">
-					<div class="col-md-8 offset-md-2 col-lg-6 offset-lg-3">
-						<div class="section-title_home">
-							<h2>Our Testimonial</h2>
-							<span class="b-line"></span>
-							<p>
-								Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 's standard dummy text.
-							</p>
-						</div>
-					</div>
-				</div>
-				<div class="home_testimonial">
-
-					<div class="testimonial_blog">
-
-						<div class="author_detail">
-							<div class="author_pic">
-								<img src="assets/images/testimonial/1.jpg" alt="" />
-							</div>
-							<h3>Andrew Flintoff</h3>
-							<p>
-								Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.
-							</p>
-						</div>
-					</div>
-
-					<div class="testimonial_blog">
-
-						<div class="author_detail">
-							<div class="author_pic">
-								<img src="assets/images/testimonial/2.jpg" alt="" />
-							</div>
-							<h3>Andrew Flintoff</h3>
-							<p>
-								Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.
-							</p>
-						</div>
-					</div>
-
-					<div class="testimonial_blog">
-
-						<div class="author_detail">
-							<div class="author_pic">
-								<img src="assets/images/testimonial/3.jpg" alt="" />
-							</div>
-							<h3>Andrew Flintoff</h3>
-							<p>
-								Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type.
-							</p>
-						</div>
-					</div>
-
-				</div>
-			</div>
-		</section>
-		----->
-		<!-- testimonial_Section_End -->
-
-		
-		<!-- Blog -->
-		<!----
-		<section class="latest__block padding ptb-xs-40">
-			<div class="container">
-				<div class="row text-center mb-40 mb-xs-30">
-					<div class="col-md-8 offset-md-2 col-lg-6 offset-lg-3">
-						<div class="section-title_home">
-							<h2>Our Blog</h2>
-							<span class="b-line"></span>
-							<p>
-								Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the 's standard dummy text.
-							</p>
-						</div>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-lg-4">
-						<div class="img-scale">
-							<figure>
-								<img src="assets/images/blog/home_blog_1.jpg" alt="">
-							</figure>
-							<div class="latest__block-post gray-bg">
-								<div class="meta-post">
-									Oct, 24th 2018
-								</div>
-								<h3 class="latest__block-title"><a href="blog-single.html">How To Decorate With Black-and-White?</a></h3>
-
-								<div class="flat-link flat-arrow sm  ">
-									<a href="#" class="more_btn__block">More <i class="fa fa-angle-right"></i> </a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 mt-sm-30 mt-xs-30">
-						<div class="img-scale">
-							<figure>
-								<img src="assets/images/blog/home_blog_2.jpg" alt="">
-							</figure>
-							<div class="latest__block-post gray-bg">
-								<div class="meta-post">
-									Oct, 24th 2018
-								</div>
-								<h3 class="latest__block-title"><a href="blog-single.html">How To Decorate With Black-and-White?</a></h3>
-
-								<div class="flat-link flat-arrow sm  ">
-									<a href="#" class="more_btn__block">More <i class="fa fa-angle-right"></i> </a>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-lg-4 mt-sm-30 mt-xs-30">
-						<div class="img-scale">
-							<figure>
-								<img src="assets/images/blog/home_blog_3.jpg" alt="">
-							</figure>
-							<div class="latest__block-post gray-bg">
-								<div class="meta-post">
-									Oct, 24th 2018
-								</div>
-								<h3 class="latest__block-title"><a href="blog-single.html">How To Decorate With Black-and-White?</a></h3>
-
-								<div class="flat-link flat-arrow sm  ">
-									<a href="#" class="more_btn__block">More <i class="fa fa-angle-right"></i> </a>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		---->
 		<!-- Blog_End -->
 
 		<?php include_once('public/footer.php')?>
@@ -797,9 +636,9 @@ within 90 hours at your doorstep. Some service providers instead of repairing th
 		<script type="text/javascript" src="assets/js/jquery.revolution.js"></script>
 		<!-- custom Js -->
 		<script src="assets/js/custom.js" type="text/javascript"></script>
-		
-		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5d22f07b1a9dfeb9"></script>
-
+	<!-- 	Share Option -->
+<!-- 		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5d22f07b1a9dfeb9"></script>
+ -->
 	</body>
 
 <!-- index06:36-->
