@@ -58,7 +58,7 @@ Tirupati - 517501</span>
 										<i class="fa fa-phone"></i>
 										<p>
 											Call Us
-											<span> +91 9686693239</span>
+											<span> +91 9441520209</span>
 										</p>
 									</li>
 									<li>
