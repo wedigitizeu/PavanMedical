@@ -1,0 +1,50 @@
+*{
+	margin:0;
+	padding:0;
+}
+.wrapper{
+	
+	width:80%;
+	height:498px;
+	margin:50px auto;
+	
+	
+}
+.wrapper ul {
+	
+	list-style:none;
+	cursor:pointer;
+}
+.wrapper ul li {
+	position:relative;
+	width:calc(100% / 4);
+	float:left;
+	overflow:hidden;
+	transition:all 0.5s;
+	box-shadow:0px 0px 30px black;
+}
+.wrapper ul:hover li
+{
+	width:calc((100% - 650px)/3);
+}
+.wrapper ul li:hover
+{
+	width:650px;
+	
+}
+
+.wrapper ul li a{
+	position:absolute;
+	bottom:5;
+	left:0;
+	background-color:rgba(0,0,0,0.5);
+	padding:15px;
+	color:white;
+	text-decoration:none;
+	width:100%;
+	font-size:20px;
+	
+	
+}
+
+.scheme u
